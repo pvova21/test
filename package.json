@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pvova21/test#readme",
   "devDependencies": {
-    "@babel/cli": "^7.20.7"
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12"
   }
 }
